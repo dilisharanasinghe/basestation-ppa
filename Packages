@@ -1,0 +1,16 @@
+Package: basestation
+Version: 0.1-1
+Architecture: all
+Maintainer: Dilshan Ranasinghe <dilisharanasinghe@gmail.com>
+Installed-Size: 8
+Filename: ./basestation_0.1-1_all.deb
+Size: 1150
+MD5sum: 28817cadb176246c9bb1948cc8e80d23
+SHA1: 2acb3ec9271b50a600396097abc053d9a9651c8c
+SHA256: c86562badcbef5e5e25381c65c87f71e5539ae68bcf84d09f1e91298f1dd8134
+Section: unknown
+Priority: optional
+Homepage: <insert the upstream URL, if relevant>
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
+
