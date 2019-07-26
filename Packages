@@ -30,3 +30,19 @@ Homepage: <insert the upstream URL, if relevant>
 Description: <insert up to 60 chars description>
  <insert long description, indented with spaces>
 
+Package: basestation
+Version: 0.2-1
+Architecture: all
+Maintainer: Dilshan <dilshan@unknown>
+Installed-Size: 7
+Filename: ./basestation_0.2-1_all.deb
+Size: 1066
+MD5sum: cf39ceed1a0cbe353a2104a6e913a61b
+SHA1: 1ce1967f593c668aa754337fb5c49d5e9908338b
+SHA256: 033867f0d3907944884e73504dd38dd49f39f6a153be60bb604708b179b5030c
+Section: unknown
+Priority: optional
+Homepage: <insert the upstream URL, if relevant>
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
+
