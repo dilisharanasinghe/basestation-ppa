@@ -34,12 +34,28 @@ Package: basestation
 Version: 0.2-1
 Architecture: all
 Maintainer: Dilshan <dilshan@unknown>
-Installed-Size: 7
+Installed-Size: 8
 Filename: ./basestation_0.2-1_all.deb
-Size: 1066
-MD5sum: cf39ceed1a0cbe353a2104a6e913a61b
-SHA1: 1ce1967f593c668aa754337fb5c49d5e9908338b
-SHA256: 033867f0d3907944884e73504dd38dd49f39f6a153be60bb604708b179b5030c
+Size: 1152
+MD5sum: 6f229c3d5c261c321d0a7cabf84c5c78
+SHA1: 20dad93ed4750332606cfa1c89e23b4477026065
+SHA256: a3c216eefedcd9202b6c7b8a2774ef366bd63eab93bdf7e14981c87919716a5c
+Section: unknown
+Priority: optional
+Homepage: <insert the upstream URL, if relevant>
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
+
+Package: basestation
+Version: 0.2-2
+Architecture: all
+Maintainer: Dilshan <dilshan@unknown>
+Installed-Size: 8
+Filename: ./basestation_0.2-2_all.deb
+Size: 1152
+MD5sum: d4d4fa420002550ef03913f07cde1938
+SHA1: 95b1e8aba9d9356689989e427cda6ce3229486ec
+SHA256: f5834323919c93894fc5d73ab26d2fddd7148266e881a04968bdeb1ca1674e5b
 Section: unknown
 Priority: optional
 Homepage: <insert the upstream URL, if relevant>
